@@ -1,0 +1,63 @@
+/*
+    seletor{
+        propriedade: valor;
+    }
+*/
+
+body {
+    background-color: #007a66;
+
+}
+
+.container {
+    border-right: 1px solid #d3d3d3;
+    background-color: #fffbfb;
+    border-radius: 12px;
+    width: 300px;
+    padding: 16px;
+    margin: 100px;
+    box-shadow: 0px 0 20px #d3d3d3;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.destaque {
+    height: 250px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.categoria {
+    background-color: #f1c4fa;
+    font-size: 12px;
+    color: #651375;
+    font-family: Verdana;
+    text-align: center;
+    width: 100px;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.titulo {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: tahoma;
+    color: #292929;
+}
+
+.descricao {
+    font-size: 16px;
+    font-family: verdana;
+    color: #555555;
+    line-height: 26px;
+}
+
+.autor {
+    font-size: 14px;
+    font-family: arial;
+    font-style: italic;
+    color: #555;
+    font-weight: bold;
+}
